@@ -1,15 +1,3 @@
-<style>
-table th:first-of-type {
-    width: 5%;
-}
-table th:nth-of-type(2) {
-    width: 30%;
-}
-table th:nth-of-type(3) {
-    width: 65%;
-}
-</style>
-
 # Justin Martyr's First Apology
 
 | Chapter| Ελληνικά | English |
